@@ -9,13 +9,11 @@
 #DEFAULT_WORKFLOW="https://..."
 
 APT_PACKAGES=(
-    #"package-1"
-    #"package-2"
+    "ffmpeg"
 )
 
 PIP_PACKAGES=(
-    #"package-1"
-    #"package-2"
+    "av"
 )
 
 NODES=(
